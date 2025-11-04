@@ -8,15 +8,21 @@
   <a href="mailto:allanbaliddawa@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <strong>📍 Kampala, Uganda | 🌍 Open to remote roles & relocation</strong>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science student and a passionate Full-Stack Developer who loves building solutions that make a difference. When I'm not coding, you can find me on stage as a **Public Speaker**, breaking down complex tech concepts for everyone to understand!
+I'm a Computer Science student based in **Kampala, Uganda** and a passionate Full-Stack Developer who loves building solutions that make a difference. I'm actively seeking **remote opportunities and open to relocation** for the right role. When I'm not coding, you can find me on stage as a **Public Speaker**, breaking down complex tech concepts for everyone to understand!
 
 - 🔭 I'm currently working on **enhancing my full-stack projects with advanced features**
 - 🌱 I'm currently learning **System Design & Cloud Architecture**
 - 💬 Ask me about **Java, Spring Boot, React, Next.js, or public speaking!**
+- 🌍 **Location:** Kampala, Uganda | Open to remote & relocation opportunities
+- 💼 **Status:** Actively seeking Full-Stack Developer roles
 - ⚡ Fun fact: **I can explain binary trees better in front of an audience than in code comments**
 
 ---
@@ -63,6 +69,8 @@ A modern social media application featuring authentication, posting, and user in
 
 ## 📫 Let's Connect!
 
+- **📍 Location:** Kampala, Uganda
+- **🌍 Work Preferences:** Open to remote roles & relocation
 - **LinkedIn:** [Allan Baliddawa](https://www.linkedin.com/in/allan-baliddawa-828771286/)
 - **Twitter:** [@AllanBaliddawa](https://twitter.com/AllanBaliddawa)
 - **GitHub:** [baliddawa](https://github.com/baliddawa)
