@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full-Stack Developer crafting robust web applications with Java/Spring Boot & React/Next.js</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/allan-baliddawa-828771286/?trk=eml-email_job_alert_digest_01-header-0-profile_glimmer">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/allan-baliddawa-828771286/">LinkedIn</a> •
   <a href="https://x.com/AllanBaliddawa">Twitter</a> •
-  <a href="[myportfolio-website]">Portfolio</a> •
+  <a href="https://github.com/baliddawa">Portfolio</a> •
   <a href="mailto:allanbaliddawa@gmail.com">Email</a>
 </p>
 
@@ -65,8 +65,8 @@ A modern social media application featuring authentication, posting, and user in
 
 - **LinkedIn:** [Allan Baliddawa](https://www.linkedin.com/in/allan-baliddawa-828771286/)
 - **Twitter:** [@AllanBaliddawa](https://twitter.com/AllanBaliddawa)
-- **Portfolio:** [Coming Soon]
-- **Email:** [allanbaliddawa@gmail.com](mailto:allanbaliddawa@gmail.com)
+- **GitHub:** [baliddawa](https://github.com/baliddawa)
+- **Email:** allanbaliddawa@gmail.com
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
