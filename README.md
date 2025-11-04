@@ -66,7 +66,7 @@ A modern social media application featuring authentication, posting, and user in
 - **LinkedIn:** https://www.linkedin.com/in/allan-baliddawa-828771286/?trk=eml-email_job_alert_digest_01-header-0-profile_glimmer
 - **Twitter:** https://twitter.com/AllanBaliddawa
 - **Portfolio:** [my Portfolio Website]
-- **Email:** allanbaliddawa@gmail.com
+- **Email:**https://allanbaliddawa@gmail.com
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
