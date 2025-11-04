@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/allan-baliddawa-828771286/?trk=eml-email_job_alert_digest_01-header-0-profile_glimmer">LinkedIn</a> •
   <a href="https://x.com/AllanBaliddawa">Twitter</a> •
   <a href="[myportfolio-website]">Portfolio</a> •
-  <a href="allanbaliddawa@gmail.com">Email</a>
+  <a href="mailto:allanbaliddawa@gmail.com">Email</a>
 </p>
 
 ---
@@ -14,8 +14,8 @@
 
 I'm a Computer Science student and a passionate Full-Stack Developer who loves building solutions that make a difference. When I'm not coding, you can find me on stage as a **Public Speaker**, breaking down complex tech concepts for everyone to understand!
 
-- 🔭 I’m currently working on **enhancing my full-stack projects with advanced features**
-- 🌱 I’m currently learning **System Design & Cloud Architecture**
+- 🔭 I'm currently working on **enhancing my full-stack projects with advanced features**
+- 🌱 I'm currently learning **System Design & Cloud Architecture**
 - 💬 Ask me about **Java, Spring Boot, React, Next.js, or public speaking!**
 - ⚡ Fun fact: **I can explain binary trees better in front of an audience than in code comments**
 
@@ -63,10 +63,10 @@ A modern social media application featuring authentication, posting, and user in
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** https://www.linkedin.com/in/allan-baliddawa-828771286/?trk=eml-email_job_alert_digest_01-header-0-profile_glimmer
-- **Twitter:** https://twitter.com/AllanBaliddawa
-- **Portfolio:** [my Portfolio Website]
-- **Email:**https://allanbaliddawa@gmail.com
+- **LinkedIn:** [Allan Baliddawa](https://www.linkedin.com/in/allan-baliddawa-828771286/)
+- **Twitter:** [@AllanBaliddawa](https://twitter.com/AllanBaliddawa)
+- **Portfolio:** [Coming Soon]
+- **Email:** [allanbaliddawa@gmail.com](mailto:allanbaliddawa@gmail.com)
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
