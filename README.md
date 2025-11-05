@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/allan-baliddawa-828771286/">LinkedIn</a> •
   <a href="https://x.com/AllanBaliddawa">Twitter</a> •
-  <a href="https://github.com/baliddawa">Portfolio</a> •
+  <a href="https://my-portfolio-flame-tau-63.vercel.app/">Portfolio</a> •
   <a href="mailto:allanbaliddawa@gmail.com">Email</a>
 </p>
 
