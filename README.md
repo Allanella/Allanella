@@ -13,6 +13,7 @@ https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail
 📍 Kampala, Uganda | 🌍 Open to remote roles & relocation
 
 
+
 🚀 About Me
 I'm a Computer Science student at University of the People (graduating with my Associate's Degree in January 2026) and a passionate Full-Stack Developer who loves building solutions that make a difference. I'm actively seeking remote opportunities and open to relocation for the right role.
 
@@ -29,11 +30,15 @@ When I'm not coding, you can find me on stage as a Public Speaker, breaking down
 ⚡ Fun fact: I can explain binary trees better in front of an audience than in code comments
 
 
+
+
 🛠️ Tech Stack
 Frontend: JavaScript | React | Next.js | Tailwind CSS | HTML5 | CSS3
 Backend: Java | Spring Boot | Node.js | Express.js
 Database: PostgreSQL | Supabase | MySQL | MongoDB
 Tools: Git | Maven | Vite | Docker
+
+
 
 
 💻 Featured Projects
@@ -47,6 +52,8 @@ A modern full-stack social media application built with React.js frontend and Ex
 🔗 Code: GitHub Repository
 
 
+
+
 🎓 Student Management System - Full Stack
 A comprehensive full-stack web application for managing student information with secure authentication and CRUD operations.
 
@@ -55,6 +62,8 @@ A comprehensive full-stack web application for managing student information with
 🚀 Tech: Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
 
 🔗 Code: GitHub Repository
+
+
 
 
 🏗️ Acculate Construction Company - Professional Website
@@ -67,6 +76,8 @@ A modern, responsive website built with Next.js and advanced UI components for a
 🔗 Code: GitHub Repository
 
 
+
+
 ⛪ SDA Kanyanya Church Website - Community Platform
 A modern, responsive website built for the Seventh-day Adventist Church Kanyanya to connect with their community.
 
@@ -75,6 +86,8 @@ A modern, responsive website built for the Seventh-day Adventist Church Kanyanya
 🚀 Tech: Next.js • Tailwind CSS • Responsive Design
 
 🔗 Code: GitHub Repository
+
+
 
 
 🎓 Iona Institute of Technology - Official Website
@@ -87,6 +100,8 @@ The official website for Iona Institute of Technology featuring modern design an
 🔗 Code: GitHub Repository
 
 
+
+
 ✅ React To-Do List App - Productivity Tool
 A modern, responsive to-do list application with full CRUD operations and local storage persistence.
 
@@ -95,6 +110,8 @@ A modern, responsive to-do list application with full CRUD operations and local 
 🚀 Tech: React 18 • Vite • TypeScript • Tailwind CSS
 
 🔗 Code: GitHub Repository
+
+
 
 
 🔬 OpenELIS Global - Open Source Contribution
@@ -107,14 +124,20 @@ Open-source laboratory information system contributing to healthcare labs worldw
 🔗 Code: GitHub Repository
 
 
+
+
 🌦️ Weather App | 🔍 Recipe Finder | 🧮 Calculator - Utility Applications
 Various utility applications demonstrating diverse technical skills and problem-solving abilities.
+
+
 
 
 📊 GitHub Activity
 https://github-readme-stats.vercel.app/api?username=Allanella&show_icons=true&theme=radical
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Allanella&layout=compact&theme=radical
+
+
 
 
 📫 Let's Connect!
