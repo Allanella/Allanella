@@ -1,14 +1,19 @@
+<div align="center">
 👋 Hi, I'm Allan Baliddawa
 Full-Stack Developer | Java & Spring Boot Specialist | React Enthusiast
 Crafting robust web applications that make a difference
-📍 Kampala, Uganda | 🌍 Open to Remote & Relocation
+
 Show Image
 Show Image
 Show Image
 Show Image
 
+📍 Kampala, Uganda | 🌍 Open to Remote & Relocation
+
+</div>
 🚀 About Me
-javascriptconst allan = {
+javascript
+const allan = {
     education: "Computer Science @ University of the People",
     graduation: "January 2026 (Associate's Degree)",
     currentFocus: ["System Design", "Cloud Architecture", "Advanced Full-Stack Development"],
@@ -18,16 +23,35 @@ javascriptconst allan = {
 };
 When I'm not shipping code, you'll find me on stage as a Public Speaker, making complex tech concepts accessible to everyone!
 
-🛠️ Tech Stack
-Frontend: JavaScript • React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3
-Backend: Java • Spring Boot • Node.js • Express.js
-Database: PostgreSQL • MongoDB • MySQL • Supabase
-Tools: Git • Maven • Vite • Docker • Socket.io
+🛠️ Tech Arsenal
+<div align="center">
+Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
+Backend
+Show Image
+Show Image
+Show Image
+Show Image
+
+Database & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
 💼 Featured Projects
-🌐 Allanova Social App - Full Stack Social Platform
+<table> <tr> <td width="50%">
+🌐 Allanova Social App
+Full Stack Social Platform
 
-A modern social media application with real-time features and seamless user experience
+A modern social media application with real-time features and seamless user experience.
 
 🎯 Key Features:
 
@@ -36,13 +60,16 @@ A modern social media application with real-time features and seamless user expe
 💬 Real-time Interactions with Socket.io
 📱 Fully Responsive Design
 ⚡ Lightning-fast Performance
+🔧 Tech Stack:
+React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
 
-🔧 Tech Stack: React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
-View Code →
+Show Image
 
-🎓 Student Management System - Enterprise Solution
+</td> <td width="50%">
+🎓 Student Management System
+Enterprise Solution
 
-Comprehensive full-stack application for managing student information with enterprise-grade security
+Comprehensive full-stack application for managing student information with enterprise-grade security.
 
 🎯 Key Features:
 
@@ -51,13 +78,16 @@ Comprehensive full-stack application for managing student information with enter
 📊 Interactive Dashboard
 ✏️ Complete CRUD Operations
 🎨 Modern, Intuitive UI
+🔧 Tech Stack:
+Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
 
-🔧 Tech Stack: Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
-View Code →
+Show Image
 
-🏗️ Acculate Construction Company - Professional Website
+</td> </tr> <tr> <td width="50%">
+🏗️ Acculate Construction
+Professional Website
 
-Modern, responsive corporate website with advanced UI components
+Modern, responsive corporate website with advanced UI components.
 
 🎯 Key Features:
 
@@ -65,13 +95,16 @@ Modern, responsive corporate website with advanced UI components
 📬 Interactive Contact Forms
 📱 Mobile-First Responsive Design
 ✨ Advanced UI Components
+🔧 Tech Stack:
+Next.js • TypeScript • Tailwind CSS • Radix UI
 
-🔧 Tech Stack: Next.js • TypeScript • Tailwind CSS • Radix UI
-View Code →
+Show Image
 
-⛪ SDA Kanyanya Church - Community Platform
+</td> <td width="50%">
+⛪ SDA Kanyanya Church
+Community Platform
 
-Community-focused website connecting church members and visitors
+Community-focused website connecting church members and visitors.
 
 🎯 Key Features:
 
@@ -79,42 +112,56 @@ Community-focused website connecting church members and visitors
 🎤 Sermon Library
 👥 Ministry Information
 📱 Mobile-Optimized
+🔧 Tech Stack:
+Next.js • Tailwind CSS • Responsive Design
 
-🔧 Tech Stack: Next.js • Tailwind CSS • Responsive Design
-View Code →
+Show Image
 
-🎓 Iona Institute of Technology - Official Website
+</td> </tr> <tr> <td width="50%">
+🎓 Iona Institute of Technology
+Official Website
 
-Fast, modern institutional website with smooth UX
+Fast, modern institutional website with smooth UX.
 
-🔧 Tech Stack: React • Vite • Tailwind CSS • Lucide React
-View Code →
+🔧 Tech Stack:
+React • Vite • Tailwind CSS • Lucide React
 
-✅ React To-Do List - Productivity Tool
+Show Image
 
-Modern task management app with persistence
+</td> <td width="50%">
+✅ React To-Do List
+Productivity Tool
 
-🔧 Tech Stack: React 18 • Vite • TypeScript • Tailwind CSS
-View Code →
+Modern task management app with persistence.
 
+🔧 Tech Stack:
+React 18 • Vite • TypeScript • Tailwind CSS
+
+Show Image
+
+</td> </tr> </table>
 🔬 OpenELIS Global - Open Source Healthcare
-
-Contributing to laboratory information systems for healthcare labs worldwide
+Contributing to laboratory information systems for healthcare labs worldwide.
 
 🔧 Tech Stack: Java • Open Source • Healthcare Systems
-View Code →
+
+Show Image
 
 📊 GitHub Stats
-Show Image
-Show Image
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Allanella&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Allan's GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanella&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanella&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" width="48%" /> </div>
 🤝 Let's Connect!
+<div align="center">
 I'm always excited to collaborate on meaningful projects and tackle new challenges!
+
 💼 Open to: Remote Roles • Relocation • Freelance Projects • Open Source Contributions
-📧 Email: allanbaliddawa@gmail.com
-🔗 LinkedIn: Allan Baliddawa
-🐦 Twitter: @AllanBaliddawa
-🌐 Portfolio: Visit My Site
+
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
 
 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
 Show Image
+
+</div>
