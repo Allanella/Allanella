@@ -1,160 +1,166 @@
-Hi there, I'm Baliddawa Allan 👋
-A passionate Full-Stack Developer crafting robust web applications with Java/Spring Boot & React/Next.js
+# 👋 Hi, I'm Allan Baliddawa
 
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
+### Full-Stack Developer | Java & Spring Boot Specialist | React Enthusiast
 
-https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=react
+*Crafting robust web applications that make a difference*
 
-https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github
+📍 **Kampala, Uganda** | 🌍 **Open to Remote & Relocation**
 
-https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat-square&logo=react&logoColor=white)](https://my-portfolio-flame-tau-63.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Allanella)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:allanbaliddawa@gmail.com)
 
+---
 
-📍 Kampala, Uganda | 🌍 Open to remote roles & relocation
+## 🚀 About Me
 
+```javascript
+const allan = {
+    education: "Computer Science @ University of the People",
+    graduation: "January 2026 (Associate's Degree)",
+    currentFocus: ["System Design", "Cloud Architecture", "Advanced Full-Stack Development"],
+    availability: "Actively seeking Full-Stack Developer roles",
+    passion: "Building solutions that make an impact",
+    superpower: "Explaining binary trees on stage better than in comments 🎤"
+};
+```
 
+When I'm not shipping code, you'll find me on stage as a **Public Speaker**, making complex tech concepts accessible to everyone!
 
-🚀 About Me
-I'm a Computer Science student at University of the People (graduating with my Associate's Degree in January 2026) and a passionate Full-Stack Developer who loves building solutions that make a difference. I'm actively seeking remote opportunities and open to relocation for the right role.
+---
 
-When I'm not coding, you can find me on stage as a Public Speaker, breaking down complex tech concepts for everyone to understand!
+## 🛠️ Tech Stack
 
-🔭 Currently working on: Enhancing my full-stack projects with advanced features
+**Frontend:** JavaScript • React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3
 
-🌱 Currently learning: System Design & Cloud Architecture
+**Backend:** Java • Spring Boot • Node.js • Express.js
 
-💬 Ask me about: Java, Spring Boot, React, Next.js, or public speaking!
+**Database:** PostgreSQL • MongoDB • MySQL • Supabase
 
-💼 Status: Actively seeking Full-Stack Developer roles
+**Tools:** Git • Maven • Vite • Docker • Socket.io
 
-⚡ Fun fact: I can explain binary trees better in front of an audience than in code comments
+---
 
+## 💼 Featured Projects
 
+### 🌐 Allanova Social App - Full Stack Social Platform
 
+> A modern social media application with real-time features and seamless user experience
 
-🛠️ Tech Stack
-Frontend: JavaScript | React | Next.js | Tailwind CSS | HTML5 | CSS3
-Backend: Java | Spring Boot | Node.js | Express.js
-Database: PostgreSQL | Supabase | MySQL | MongoDB
-Tools: Git | Maven | Vite | Docker
+**🎯 Key Features:**
+- 🔐 JWT Authentication & Authorization
+- 📝 Create, Edit & Delete Posts
+- 💬 Real-time Interactions with Socket.io
+- 📱 Fully Responsive Design
+- ⚡ Lightning-fast Performance
 
+**🔧 Tech Stack:** React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
 
+**[View Code →](https://github.com/Allanella/allanova-social-app)**
 
+---
 
-💻 Featured Projects
-🌐 Allanova Social App - Full Stack Application
-A modern full-stack social media application built with React.js frontend and Express.js backend, featuring real-time interactions, authentication, and responsive design.
+### 🎓 Student Management System - Enterprise Solution
 
-✨ Features: User Authentication • Post Creation • Real-time Interactions • Responsive Design
+> Comprehensive full-stack application for managing student information with enterprise-grade security
 
-🚀 Tech: React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
+**🎯 Key Features:**
+- 👥 Student Registration & Profile Management
+- 🔒 Secure Authentication System
+- 📊 Interactive Dashboard
+- ✏️ Complete CRUD Operations
+- 🎨 Modern, Intuitive UI
 
-🔗 Code: GitHub Repository
+**🔧 Tech Stack:** Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
 
+**[View Code →](https://github.com/Allanella/student-management-system)**
 
+---
 
+### 🏗️ Acculate Construction Company - Professional Website
 
-🎓 Student Management System - Full Stack
-A comprehensive full-stack web application for managing student information with secure authentication and CRUD operations.
+> Modern, responsive corporate website with advanced UI components
 
-✨ Features: Student Registration • Secure Login • Dashboard • Full CRUD Operations
+**🎯 Key Features:**
+- 🖼️ Dynamic Project Showcases
+- 📬 Interactive Contact Forms
+- 📱 Mobile-First Responsive Design
+- ✨ Advanced UI Components
 
-🚀 Tech: Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
+**🔧 Tech Stack:** Next.js • TypeScript • Tailwind CSS • Radix UI
 
-🔗 Code: GitHub Repository
+**[View Code →](https://github.com/Allanella/acculate-construction)**
 
+---
 
+### ⛪ SDA Kanyanya Church - Community Platform
 
+> Community-focused website connecting church members and visitors
 
-🏗️ Acculate Construction Company - Professional Website
-A modern, responsive website built with Next.js and advanced UI components for a construction company.
+**🎯 Key Features:**
+- 📅 Worship Schedules & Events
+- 🎤 Sermon Library
+- 👥 Ministry Information
+- 📱 Mobile-Optimized
 
-✨ Features: Project Showcases • Contact Forms • Responsive Design • Modern UI
+**🔧 Tech Stack:** Next.js • Tailwind CSS • Responsive Design
 
-🚀 Tech: Next.js • TypeScript • Tailwind CSS • Radix UI • Advanced Components
+**[View Code →](https://github.com/Allanella/sda-kanyanya)**
 
-🔗 Code: GitHub Repository
+---
 
+### 🎓 Iona Institute of Technology - Official Website
 
+> Fast, modern institutional website with smooth UX
 
+**🔧 Tech Stack:** React • Vite • Tailwind CSS • Lucide React
 
-⛪ SDA Kanyanya Church Website - Community Platform
-A modern, responsive website built for the Seventh-day Adventist Church Kanyanya to connect with their community.
+**[View Code →](https://github.com/Allanella/iona-institute)**
 
-✨ Features: Worship Schedules • Ministries • Sermons • Events • Community Resources
+---
 
-🚀 Tech: Next.js • Tailwind CSS • Responsive Design
+### ✅ React To-Do List - Productivity Tool
 
-🔗 Code: GitHub Repository
+> Modern task management app with persistence
 
+**🔧 Tech Stack:** React 18 • Vite • TypeScript • Tailwind CSS
 
+**[View Code →](https://github.com/Allanella/react-todo)**
 
+---
 
-🎓 Iona Institute of Technology - Official Website
-The official website for Iona Institute of Technology featuring modern design and smooth user experience.
+### 🔬 OpenELIS Global - Open Source Healthcare
 
-✨ Features: Fast Development • Modern UI • Smooth Scroll Navigation • Clean Code
+> Contributing to laboratory information systems for healthcare labs worldwide
 
-🚀 Tech: React • Vite • Tailwind CSS • Lucide React • ESLint
+**🔧 Tech Stack:** Java • Open Source • Healthcare Systems
 
-🔗 Code: GitHub Repository
+**[View Code →](https://github.com/Allanella/openelis-global)**
 
+---
 
+## 📊 GitHub Stats
 
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allanella&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-✅ React To-Do List App - Productivity Tool
-A modern, responsive to-do list application with full CRUD operations and local storage persistence.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanella&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-✨ Features: Add/Edit/Delete Tasks • Local Storage • Responsive Design • Modern UI
+---
 
-🚀 Tech: React 18 • Vite • TypeScript • Tailwind CSS
+## 🤝 Let's Connect!
 
-🔗 Code: GitHub Repository
+I'm always excited to collaborate on meaningful projects and tackle new challenges!
 
+**💼 Open to:** Remote Roles • Relocation • Freelance Projects • Open Source Contributions
 
+**📧 Email:** allanbaliddawa@gmail.com  
+**🔗 LinkedIn:** [Allan Baliddawa](https://linkedin.com/in/yourprofile)  
+**🐦 Twitter:** [@AllanBaliddawa](https://twitter.com/AllanBaliddawa)  
+**🌐 Portfolio:** [Visit My Site](https://my-portfolio-flame-tau-63.vercel.app/)
 
+---
 
-🔬 OpenELIS Global - Open Source Contribution
-Open-source laboratory information system contributing to healthcare labs worldwide.
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-✨ Features: Laboratory Management • Data Accuracy • Workflow Efficiency
-
-🚀 Tech: Java • Open Source • Healthcare Systems
-
-🔗 Code: GitHub Repository
-
-
-
-
-🌦️ Weather App | 🔍 Recipe Finder | 🧮 Calculator - Utility Applications
-Various utility applications demonstrating diverse technical skills and problem-solving abilities.
-
-
-
-
-📊 GitHub Activity
-https://github-readme-stats.vercel.app/api?username=Allanella&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Allanella&layout=compact&theme=radical
-
-
-
-
-📫 Let's Connect!
-📍 Location: Kampala, Uganda
-
-🌍 Work Preferences: Open to remote roles & relocation
-
-💼 LinkedIn: Allan Baliddawa
-
-🐦 Twitter: @AllanBaliddawa
-
-💻 GitHub: Allanella
-
-🌐 Portfolio: My Portfolio
-
-📧 Email: allanbaliddawa@gmail.com
-
-⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-Always excited to collaborate on meaningful projects and tackle new challenges! 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=Allanella&color=F85D7F&style=flat-square)
