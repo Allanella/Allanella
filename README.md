@@ -3,17 +3,11 @@
 Full-Stack Developer | Java & Spring Boot Specialist | React Enthusiast
 Crafting robust web applications that make a difference
 
-Show Image
-Show Image
-Show Image
-Show Image
-
 📍 Kampala, Uganda | 🌍 Open to Remote & Relocation
-
 </div>
+
 🚀 About Me
-javascript
-const allan = {
+javascriptconst allan = {
     education: "Computer Science @ University of the People",
     graduation: "January 2026 (Associate's Degree)",
     currentFocus: ["System Design", "Cloud Architecture", "Advanced Full-Stack Development"],
@@ -24,144 +18,122 @@ const allan = {
 When I'm not shipping code, you'll find me on stage as a Public Speaker, making complex tech concepts accessible to everyone!
 
 🛠️ Tech Arsenal
-<div align="center">
-Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+yamlFrontend:
+  Languages: JavaScript, TypeScript
+  Frameworks: React, Next.js
+  Styling: Tailwind CSS, HTML5, CSS3
 
-Backend
-Show Image
-Show Image
-Show Image
-Show Image
+Backend:
+  Languages: Java, Node.js
+  Frameworks: Spring Boot, Express.js
+  
+Database:
+  SQL: PostgreSQL, MySQL
+  NoSQL: MongoDB
+  Cloud: Supabase
+  
+Tools & DevOps:
+  Version Control: Git, GitHub
+  Build Tools: Maven, Vite
+  Containerization: Docker
+  Real-time: Socket.io
 
-Database & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-</div>
 💼 Featured Projects
-<table> <tr> <td width="50%">
 🌐 Allanova Social App
-Full Stack Social Platform
+
+Full Stack Social Platform | React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
 
 A modern social media application with real-time features and seamless user experience.
-
-🎯 Key Features:
+Key Features:
 
 🔐 JWT Authentication & Authorization
 📝 Create, Edit & Delete Posts
 💬 Real-time Interactions with Socket.io
 📱 Fully Responsive Design
 ⚡ Lightning-fast Performance
-🔧 Tech Stack:
-React.js • Express.js • MongoDB • JWT • Socket.io • Tailwind CSS
 
-Show Image
+→ View Code
 
-</td> <td width="50%">
 🎓 Student Management System
-Enterprise Solution
+
+Enterprise Solution | Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
 
 Comprehensive full-stack application for managing student information with enterprise-grade security.
-
-🎯 Key Features:
+Key Features:
 
 👥 Student Registration & Profile Management
 🔒 Secure Authentication System
 📊 Interactive Dashboard
 ✏️ Complete CRUD Operations
 🎨 Modern, Intuitive UI
-🔧 Tech Stack:
-Java 17+ • Spring Boot • Spring Data JPA • MySQL • React • Tailwind CSS
 
-Show Image
+→ View Code
 
-</td> </tr> <tr> <td width="50%">
-🏗️ Acculate Construction
-Professional Website
+🏗️ Acculate Construction Company
+
+Professional Website | Next.js • TypeScript • Tailwind CSS • Radix UI
 
 Modern, responsive corporate website with advanced UI components.
-
-🎯 Key Features:
+Key Features:
 
 🖼️ Dynamic Project Showcases
 📬 Interactive Contact Forms
 📱 Mobile-First Responsive Design
 ✨ Advanced UI Components
-🔧 Tech Stack:
-Next.js • TypeScript • Tailwind CSS • Radix UI
 
-Show Image
+→ View Code
 
-</td> <td width="50%">
 ⛪ SDA Kanyanya Church
-Community Platform
+
+Community Platform | Next.js • Tailwind CSS • Responsive Design
 
 Community-focused website connecting church members and visitors.
-
-🎯 Key Features:
+Key Features:
 
 📅 Worship Schedules & Events
 🎤 Sermon Library
 👥 Ministry Information
 📱 Mobile-Optimized
-🔧 Tech Stack:
-Next.js • Tailwind CSS • Responsive Design
 
-Show Image
+→ View Code
 
-</td> </tr> <tr> <td width="50%">
 🎓 Iona Institute of Technology
-Official Website
 
-Fast, modern institutional website with smooth UX.
+Official Website | React • Vite • Tailwind CSS • Lucide React
 
-🔧 Tech Stack:
-React • Vite • Tailwind CSS • Lucide React
+Fast, modern institutional website with smooth UX and optimized performance.
+→ View Code
 
-Show Image
-
-</td> <td width="50%">
 ✅ React To-Do List
-Productivity Tool
 
-Modern task management app with persistence.
+Productivity Tool | React 18 • Vite • TypeScript • Tailwind CSS
 
-🔧 Tech Stack:
-React 18 • Vite • TypeScript • Tailwind CSS
+Modern task management app with local storage persistence and full CRUD operations.
+→ View Code
 
-Show Image
+🔬 OpenELIS Global
 
-</td> </tr> </table>
-🔬 OpenELIS Global - Open Source Healthcare
-Contributing to laboratory information systems for healthcare labs worldwide.
+Open Source Healthcare | Java • Open Source • Healthcare Systems
 
-🔧 Tech Stack: Java • Open Source • Healthcare Systems
+Contributing to laboratory information systems for healthcare labs worldwide, enhancing data accuracy and workflow efficiency.
+→ View Code
 
-Show Image
+📈 GitHub Activity
+text🔥 Streak Stats       ⭐ Total Stars        📊 Total Commits
+🌟 Top Languages      🔀 Pull Requests      📦 Repositories
+Most Used Languages: Java • JavaScript • TypeScript • CSS • HTML
+Current Focus: Building scalable full-stack applications with modern technologies
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Allanella&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Allan's GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allanella&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanella&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" width="48%" /> </div>
 🤝 Let's Connect!
 <div align="center">
 I'm always excited to collaborate on meaningful projects and tackle new challenges!
-
 💼 Open to: Remote Roles • Relocation • Freelance Projects • Open Source Contributions
-
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
+📧 Email: allanbaliddawa@gmail.com
+🔗 LinkedIn: Allan Baliddawa
+🐦 Twitter: @AllanBaliddawa
+🌐 Portfolio: Visit My Site
 
-💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
-Show Image
-
+💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+⭐ If you like my work, feel free to star my repositories!
 </div>
